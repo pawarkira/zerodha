@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="zerodhaTest suite" duration-ms="42947" started-at="2021-06-21T11:53:35 IST" finished-at="2021-06-21T11:54:17 IST">
+    <groups>
+    </groups>
+    <test name="zerodha test cases" duration-ms="42947" started-at="2021-06-21T11:53:35 IST" finished-at="2021-06-21T11:54:17 IST">
+      <class name="testscripts.loginpagetest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testscripts.loginpagetest@c46bcd4]" name="setup" is-config="true" duration-ms="8908" started-at="2021-06-21T11:53:35 IST" finished-at="2021-06-21T11:53:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="check_page_login_corretely()[pri:0, instance:testscripts.loginpagetest@c46bcd4]" name="check_page_login_corretely" duration-ms="850" started-at="2021-06-21T11:53:43 IST" finished-at="2021-06-21T11:53:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_page_login_corretely -->
+        <test-method status="PASS" signature="terdown()[pri:0, instance:testscripts.loginpagetest@c46bcd4]" name="terdown" is-config="true" duration-ms="976" started-at="2021-06-21T11:53:44 IST" finished-at="2021-06-21T11:53:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terdown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testscripts.loginpagetest@c46bcd4]" name="setup" is-config="true" duration-ms="4719" started-at="2021-06-21T11:53:45 IST" finished-at="2021-06-21T11:53:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="check_page_logo()[pri:0, instance:testscripts.loginpagetest@c46bcd4]" name="check_page_logo" duration-ms="230" started-at="2021-06-21T11:53:50 IST" finished-at="2021-06-21T11:53:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_page_logo -->
+        <test-method status="PASS" signature="terdown()[pri:0, instance:testscripts.loginpagetest@c46bcd4]" name="terdown" is-config="true" duration-ms="958" started-at="2021-06-21T11:53:50 IST" finished-at="2021-06-21T11:53:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terdown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testscripts.loginpagetest@c46bcd4]" name="setup" is-config="true" duration-ms="4897" started-at="2021-06-21T11:53:51 IST" finished-at="2021-06-21T11:53:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="check_page_tittle()[pri:0, instance:testscripts.loginpagetest@c46bcd4]" name="check_page_tittle" duration-ms="29" started-at="2021-06-21T11:53:56 IST" finished-at="2021-06-21T11:53:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_page_tittle -->
+        <test-method status="PASS" signature="terdown()[pri:0, instance:testscripts.loginpagetest@c46bcd4]" name="terdown" is-config="true" duration-ms="935" started-at="2021-06-21T11:53:56 IST" finished-at="2021-06-21T11:53:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terdown -->
+      </class> <!-- testscripts.loginpagetest -->
+      <class name="testscripts.homepagetest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testscripts.homepagetest@7a3d45bd]" name="setup" is-config="true" duration-ms="6135" started-at="2021-06-21T11:53:57 IST" finished-at="2021-06-21T11:54:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="check_orders()[pri:0, instance:testscripts.homepagetest@7a3d45bd]" name="check_orders" duration-ms="2668" started-at="2021-06-21T11:54:03 IST" finished-at="2021-06-21T11:54:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_orders -->
+        <test-method status="PASS" signature="terdown()[pri:0, instance:testscripts.homepagetest@7a3d45bd]" name="terdown" is-config="true" duration-ms="1501" started-at="2021-06-21T11:54:06 IST" finished-at="2021-06-21T11:54:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terdown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testscripts.homepagetest@7a3d45bd]" name="setup" is-config="true" duration-ms="6138" started-at="2021-06-21T11:54:07 IST" finished-at="2021-06-21T11:54:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="check_view_stmt_link()[pri:0, instance:testscripts.homepagetest@7a3d45bd]" name="check_view_stmt_link" duration-ms="2439" started-at="2021-06-21T11:54:14 IST" finished-at="2021-06-21T11:54:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_view_stmt_link -->
+        <test-method status="PASS" signature="terdown()[pri:0, instance:testscripts.homepagetest@7a3d45bd]" name="terdown" is-config="true" duration-ms="1468" started-at="2021-06-21T11:54:16 IST" finished-at="2021-06-21T11:54:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terdown -->
+      </class> <!-- testscripts.homepagetest -->
+    </test> <!-- zerodha test cases -->
+  </suite> <!-- zerodhaTest suite -->
+</testng-results>
